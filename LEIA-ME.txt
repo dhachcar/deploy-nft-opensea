@@ -1,0 +1,5 @@
+Não foi possível prosseguir com o deploy do NFT no OpenSea, pois desde a gravação do vídeo em 2022, a OpenSea mudou o mecanismo de deploy dos NFTs e agora precisamos pagar uma taxa de gas para ele ser concluído com sucesso.
+
+Deixei os prints da tentativa dentro do diretório /evidências.
+
+Tentei realizar o deploy em 2 redes (Base e Polygon) e em ambas, era necessário pagar a taxa de gas, com a moeda corrente da rede, a qual eu não possuo.
